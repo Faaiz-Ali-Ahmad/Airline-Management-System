@@ -20,7 +20,7 @@ To get started with the Airline Management System, follow these steps:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/airline-management-system.git
+    git clone https://github.com/Faaiz-Ali-Ahmad/Airline-Management-System.git
     cd airline-management-system
     ```
 
